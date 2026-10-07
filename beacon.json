@@ -2,5 +2,11 @@
   "mygeeky_beacon": 1,
   "status": "",
   "interests": [],
-  "gestures": []
+  "gestures": [
+    {
+      "to": "AlsammanAlsamman",
+      "type": "wave",
+      "at": "2026-10-07T19:38:31+00:00"
+    }
+  ]
 }
