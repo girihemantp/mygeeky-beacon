@@ -1,10 +1,11 @@
 # mygeeky-beacon
 
-This is a public [myGeeKy](https://github.com/AlsammanAlsamman/myGeeKy) beacon.
+This is a [myGeeKy](https://github.com/AlsammanAlsamman/myGeeKy) beacon.
 
-`beacon.json` holds non-verbal signals (👋 wave, 📚 learn-from, 🤝 collab,
-👀 watching, 🔥 kudos) that this account sent to other GitHub users, plus an
-optional status and a few interest tags. myGeeKy users who are named here
-see the signals in their panel. There's no free text, and everything is public.
+`beacon.json` holds a public key, an optional status and a few interest tags.
+It also holds **sealed signals** (🙏 thanks, 📚 learned from your work, ⭐ used
+your work, 👀 following, 🤝 collaborate) this account sent to other myGeeKy
+users. Each one is encrypted so that **only its recipient can read it**:
+nobody else can tell who it's for or what it says. There's no free text.
 
 It's written only by myGeeKy, with a token scoped to this one repository.
