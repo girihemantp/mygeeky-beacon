@@ -1,12 +1,18 @@
 {
-  "mygeeky_beacon": 1,
+  "mygeeky_beacon": 2,
+  "keys": [
+    "J4ktrwbwWgixkoqAJsa0qLxr5wGpyC1a8S9zqpQ980s="
+  ],
   "status": "",
-  "interests": [],
-  "gestures": [
-    {
-      "to": "AlsammanAlsamman",
-      "type": "wave",
-      "at": "2026-10-07T19:38:31+00:00"
-    }
-  ]
+  "quiet": false,
+  "interests": [
+    "molecular biology",
+    "genetics",
+    "lupus",
+    "disease",
+    "human",
+    "data analysis",
+    "r"
+  ],
+  "sealed": []
 }
